@@ -5,7 +5,7 @@ This GitHub repo contains the code implementation of the IROS 2023 paper [Autono
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JA6h-Nv29pU">
-    <img src="https://github.com/uzh-rpg/pampc_for_power_line/assets/49942794/5b290c67-41f7-42a5-b065-79c57e01f771" alt="Power Line Inspection" width="600"/>
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/49942794/272397448-307dbdd7-c3e9-4613-a4ef-f6dc563812d6.png" alt="Power Line Inspection" width="600"/>
   </a>
 </p>
 
