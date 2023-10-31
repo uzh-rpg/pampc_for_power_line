@@ -10,7 +10,7 @@ This GitHub repo contains the code implementation of the IROS 2023 paper [Autono
 </p>
 
 
-The code and the dataset will be released **by the end of October**, and the perception-aware MPC will be part of the [Agilicious](https://github.com/uzh-rpg/agilicious) controller stack.
+The code and the dataset will be released **by the end of November**, and the perception-aware MPC will be part of the [Agilicious](https://github.com/uzh-rpg/agilicious) controller stack.
 
 ## Citation
 If you find this work useful, please consider citing:
