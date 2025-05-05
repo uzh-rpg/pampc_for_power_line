@@ -40,12 +40,6 @@
 
 # Overview
 
-We provide a comprehensive hybrid dataset for power line inspection that combines:
-- Synthetic data
-- Real-world data (overlaid with synthetic line structures)
-
-This dataset is specifically designed for training and evaluating the perception module of our autonomous inspection system.
-
 This repository contains the implementation of our IROS 2023 paper on autonomous power line inspection using drones. The project consists of two main components:
 
 1. **Perception Module** (This Repository)
